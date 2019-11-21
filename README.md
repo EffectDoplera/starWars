@@ -1,2 +1,0 @@
-# starWars
-Created with CodeSandbox
